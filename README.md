@@ -10,7 +10,7 @@ Over the past decade, bicycle-sharing systems have been growing in number and po
 
 Thanks to the rise in information technologies, it is easy for a user of the system to access a dock within the system to unlock or return bicycles. These technologies also provide a wealth of data that can be used to explore how these bike-sharing systems are used.
 
-In this project, I will use data provided by [Motivate](https://motivateco.com/), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
+In this project, I will use data provided by [Motivate](https://motivateco.com/), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. I will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
 ### The Datasets
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core __six (6)__ columns:
@@ -25,7 +25,7 @@ The Chicago and New York City files also have the following two columns:
 - Gender
 - Birth Year
 
-_Special Note:_ The original files are much larger and messier, and you don't need to download them, but they can be accessed here if you'd like to see them ([Chicago](https://www.divvybikes.com/system-data), [New York City](https://www.citibikenyc.com/system-data), [Washington](https://www.capitalbikeshare.com/system-data)). These files had more columns and they differed in format in many cases. Some [data wrangling](https://en.wikipedia.org/wiki/Data_wrangling) has been performed to condense these files to the above core six columns to make your analysis and the evaluation of your R skills more straightforward.
+_Special Note:_ The original files are much larger and messier, and you don't need to download them, but they can be accessed here if you'd like to see them ([Chicago](https://www.divvybikes.com/system-data), [New York City](https://www.citibikenyc.com/system-data), [Washington](https://www.capitalbikeshare.com/system-data)). These files had more columns and they differed in format in many cases. Some [data wrangling](https://en.wikipedia.org/wiki/Data_wrangling) has been performed to condense these files to the above core six columns to make the analysis more straightforward.
 
 ### Statistics Computed
 There are a number of different areas of interest available in this dataset. Here are some ideas for exploration, but feel free to explore any question you are interested in.
@@ -49,7 +49,7 @@ There are a number of different areas of interest available in this dataset. Her
 - What are the counts of each gender (only available for NYC and Chicago)?
 - What are the earliest, most recent, most common year of birth (only available for NYC and Chicago)?
 
-##### The Files
+### The Files
 You will need the three city dataset files located in the `data` folder:
 - `chicago.csv`
 - `new_york_city.csv`
