@@ -30,21 +30,21 @@ _Special Note:_ The original files are much larger and messier, and you don't ne
 ### Statistics Computed
 There are a number of different areas of interest available in this dataset. Here are some ideas for exploration, but feel free to explore any question you are interested in.
 
-#### __#1 Popular times of travel__ (i.e., occurs most often in the start time)
+#### #1 Popular times of travel (i.e., occurs most often in the start time)
 - What is the most common month?
 - What is the most common day of the week?
 - What is the most common hour of the day?
 
-#### __#2 Popular stations and trip__
+#### #2 Popular stations and trip
 - What is the most common start station?
 - What is the most common end station?
 - What is the most common trip from start to end (i.e., most frequent combination of start station and end station)?
 
-#### __#3 Trip duration__
+#### #3 Trip duration
 - What is the total travel time for users in different cities?
 - What is the average travel time for users in different cities?
 
-#### __#4 User info__
+#### #4 User info
 - What are the counts of each user type?
 - What are the counts of each gender (only available for NYC and Chicago)?
 - What are the earliest, most recent, most common year of birth (only available for NYC and Chicago)?
